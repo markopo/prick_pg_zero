@@ -1,0 +1,2 @@
+## RUN 
+-- pgzrun prick.py
